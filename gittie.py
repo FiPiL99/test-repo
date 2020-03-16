@@ -10,4 +10,4 @@ def joke():
     print("A man walks to a bar..")
 
 def shout():
-    print("A")
+    print("a")
